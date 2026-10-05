@@ -57,7 +57,7 @@ Below is a curated evaluation of leading commercial and enterprise terminal solu
 
 ## ⭐ Open-Source GitHub Projects (Sorted by Stars)
 
-Open-source utilities form the backbone of modern shell ergonomics. Below are top-tier open-source projects rank-ordered by **GitHub Stars_Count (Descending)**:
+Open-source utilities form the backbone of modern shell ergonomics. Below are top-tier open-source projects rank-ordered by **GitHub_Stars_Count (Descending)**:
 
 ### 🖥️ Terminal Emulators & Shells
 
