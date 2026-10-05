@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Terminal-Emulator-Utility/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Terminal-Emulator-Utility?style=flat-square&color=gold" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Terminal-Emulator-Utility/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Terminal-Emulator-Utility?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Terminal-Emulator-Utility/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Terminal-Emulator-Utility?style=flat-square&color=blue" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Terminal-Emulator-Utility/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Terminal-Emulator-Utility?style=flat-square&color=green" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -57,112 +57,112 @@ Below is a curated evaluation of leading commercial and enterprise terminal solu
 
 ## ⭐ Open-Source GitHub Projects (Sorted by Stars)
 
-Open-source utilities form the backbone of modern shell ergonomics. Below are top-tier open-source projects rank-ordered by **GitHub Star Count (Descending)**:
+Open-source utilities form the backbone of modern shell ergonomics. Below are top-tier open-source projects rank-ordered by **GitHub Stars_Count (Descending)**:
 
 ### 🖥️ Terminal Emulators & Shells
 
-- **[Windows Terminal](https://github.com/microsoft/terminal)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/terminal?style=social)](https://github.com/microsoft/terminal/stargazers)  
+- **[Windows Terminal](https://github.com/microsoft/terminal)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/terminal?style=social)](https://github.com/microsoft/terminal/stargazers)  
   *Microsoft's official open-source, fast, tabbed terminal emulator for Windows 10 & 11.*  
-- **[Neovim](https://github.com/neovim/neovim)** [![GitHub stars](https://img.shields.io/github/stars/neovim/neovim?style=social)](https://github.com/neovim/neovim/stargazers)  
+- **[Neovim](https://github.com/neovim/neovim)** [![GitHub_Stars](https://img.shields.io/github/stars/neovim/neovim?style=social)](https://github.com/neovim/neovim/stargazers)  
   *Vim-fork focused on extensibility and usability, featuring embedded terminal support and Lua scripting.*  
-- **[Alacritty](https://github.com/alacritty/alacritty)** [![GitHub stars](https://img.shields.io/github/stars/alacritty/alacritty?style=social)](https://github.com/alacritty/alacritty/stargazers)  
+- **[Alacritty](https://github.com/alacritty/alacritty)** [![GitHub_Stars](https://img.shields.io/github/stars/alacritty/alacritty?style=social)](https://github.com/alacritty/alacritty/stargazers)  
   *A cross-platform, OpenGL-accelerated terminal emulator written in Rust focused on raw performance.*  
-- **[Hyper](https://github.com/vercel/hyper)** [![GitHub stars](https://img.shields.io/github/stars/vercel/hyper?style=social)](https://github.com/vercel/hyper/stargazers)  
+- **[Hyper](https://github.com/vercel/hyper)** [![GitHub_Stars](https://img.shields.io/github/stars/vercel/hyper?style=social)](https://github.com/vercel/hyper/stargazers)  
   *JS/HTML/CSS-based extensible terminal app built on Web technologies by Vercel.*  
-- **[Nushell](https://github.com/nushell/nushell)** [![GitHub stars](https://img.shields.io/github/stars/nushell/nushell?style=social)](https://github.com/nushell/nushell/stargazers)  
+- **[Nushell](https://github.com/nushell/nushell)** [![GitHub_Stars](https://img.shields.io/github/stars/nushell/nushell?style=social)](https://github.com/nushell/nushell/stargazers)  
   *A modern shell that treats output as structured data tables rather than unstructured raw text streams.*  
-- **[Kitty](https://github.com/kovidgoyal/kitty)** [![GitHub stars](https://img.shields.io/github/stars/kovidgoyal/kitty?style=social)](https://github.com/kovidgoyal/kitty/stargazers)  
+- **[Kitty](https://github.com/kovidgoyal/kitty)** [![GitHub_Stars](https://img.shields.io/github/stars/kovidgoyal/kitty?style=social)](https://github.com/kovidgoyal/kitty/stargazers)  
   *Fast, feature-rich, GPU-accelerated terminal emulator supporting graphics inline, tabs, and tiling.*  
-- **[fish-shell](https://github.com/fish-shell/fish-shell)** [![GitHub stars](https://img.shields.io/github/stars/fish-shell/fish-shell?style=social)](https://github.com/fish-shell/fish-shell/stargazers)  
+- **[fish-shell](https://github.com/fish-shell/fish-shell)** [![GitHub_Stars](https://img.shields.io/github/stars/fish-shell/fish-shell?style=social)](https://github.com/fish-shell/fish-shell/stargazers)  
   *Smart and user-friendly command-line shell for Linux, macOS, and Windows with out-of-the-box syntax autosuggestions.*  
-- **[WezTerm](https://github.com/wez/wezterm)** [![GitHub stars](https://img.shields.io/github/stars/wez/wezterm?style=social)](https://github.com/wez/wezterm/stargazers)  
+- **[WezTerm](https://github.com/wez/wezterm)** [![GitHub_Stars](https://img.shields.io/github/stars/wez/wezterm?style=social)](https://github.com/wez/wezterm/stargazers)  
   *GPU-accelerated cross-platform terminal emulator & multiplexer written in Rust, configured with Lua.*  
 
 ---
 
 ### ⚡ Shell Prompts & Configuration Frameworks
 
-- **[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)** [![GitHub stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh?style=social)](https://github.com/ohmyzsh/ohmyzsh/stargazers)  
+- **[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)** [![GitHub_Stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh?style=social)](https://github.com/ohmyzsh/ohmyzsh/stargazers)  
   *The community-driven framework for managing Zsh configurations with 300+ plugins and 150+ themes.*  
-- **[Starship](https://github.com/starship/starship)** [![GitHub stars](https://img.shields.io/github/stars/starship/starship?style=social)](https://github.com/starship/starship/stargazers)  
+- **[Starship](https://github.com/starship/starship)** [![GitHub_Stars](https://img.shields.io/github/stars/starship/starship?style=social)](https://github.com/starship/starship/stargazers)  
   *The minimal, blazing-fast, and infinitely customizable prompt for any shell (written in Rust).*  
-- **[Powerlevel10k](https://github.com/romkatv/powerlevel10k)** [![GitHub stars](https://img.shields.io/github/stars/romkatv/powerlevel10k?style=social)](https://github.com/romkatv/powerlevel10k/stargazers)  
+- **[Powerlevel10k](https://github.com/romkatv/powerlevel10k)** [![GitHub_Stars](https://img.shields.io/github/stars/romkatv/powerlevel10k?style=social)](https://github.com/romkatv/powerlevel10k/stargazers)  
   *Zero-latency, ultra-fast theme for Zsh emphasizing speed and Git status visuals.*  
-- **[Oh My Posh](https://github.com/JanDeDobbeleer/oh-my-posh)** [![GitHub stars](https://img.shields.io/github/stars/JanDeDobbeleer/oh-my-posh?style=social)](https://github.com/JanDeDobbeleer/oh-my-posh/stargazers)  
+- **[Oh My Posh](https://github.com/JanDeDobbeleer/oh-my-posh)** [![GitHub_Stars](https://img.shields.io/github/stars/JanDeDobbeleer/oh-my-posh?style=social)](https://github.com/JanDeDobbeleer/oh-my-posh/stargazers)  
   *Cross-platform prompt engine for PowerShell, Bash, Zsh, and Fish with rich icon glyph support.*  
 
 ---
 
 ### 🔍 Command History, Fuzzy Search & Navigation
 
-- **[fzf](https://github.com/junegunn/fzf)** [![GitHub stars](https://img.shields.io/github/stars/junegunn/fzf?style=social)](https://github.com/junegunn/fzf/stargazers)  
+- **[fzf](https://github.com/junegunn/fzf)** [![GitHub_Stars](https://img.shields.io/github/stars/junegunn/fzf?style=social)](https://github.com/junegunn/fzf/stargazers)  
   *An interactive, general-purpose command-line fuzzy finder powering instant history, file, and process searches.*  
-- **[zoxide](https://github.com/ajeetdsouza/zoxide)** [![GitHub stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=social)](https://github.com/ajeetdsouza/zoxide/stargazers)  
+- **[zoxide](https://github.com/ajeetdsouza/zoxide)** [![GitHub_Stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=social)](https://github.com/ajeetdsouza/zoxide/stargazers)  
   *A smarter `cd` command that remembers your most visited directories and lets you jump instantly with `z`.*  
-- **[Atuin](https://github.com/atuinsh/atuin)** [![GitHub stars](https://img.shields.io/github/stars/atuinsh/atuin?style=social)](https://github.com/atuinsh/atuin/stargazers)  
+- **[Atuin](https://github.com/atuinsh/atuin)** [![GitHub_Stars](https://img.shields.io/github/stars/atuinsh/atuin?style=social)](https://github.com/atuinsh/atuin/stargazers)  
   *Replaces standard shell history with an encrypted SQLite database and optional multi-device sync.*  
-- **[z (rupa)](https://github.com/rupa/z)** [![GitHub stars](https://img.shields.io/github/stars/rupa/z?style=social)](https://github.com/rupa/z/stargazers)  
+- **[z (rupa)](https://github.com/rupa/z)** [![GitHub_Stars](https://img.shields.io/github/stars/rupa/z?style=social)](https://github.com/rupa/z/stargazers)  
   *The original shell script directory jumper using frecency calculation.*  
-- **[autojump](https://github.com/wting/autojump)** [![GitHub stars](https://img.shields.io/github/stars/wting/autojump?style=social)](https://github.com/wting/autojump/stargazers)  
+- **[autojump](https://github.com/wting/autojump)** [![GitHub_Stars](https://img.shields.io/github/stars/wting/autojump?style=social)](https://github.com/wting/autojump/stargazers)  
   *A fast directory navigation tool learning from command-line usage.*  
-- **[McFly](https://github.com/cantino/mcfly)** [![GitHub stars](https://img.shields.io/github/stars/cantino/mcfly?style=social)](https://github.com/cantino/mcfly/stargazers)  
+- **[McFly](https://github.com/cantino/mcfly)** [![GitHub_Stars](https://img.shields.io/github/stars/cantino/mcfly?style=social)](https://github.com/cantino/mcfly/stargazers)  
   *Fly through your shell history using a neural network and context-aware priorities.*  
 
 ---
 
 ### 📁 Modern File & Text Utilities
 
-- **[ripgrep](https://github.com/BurntSushi/ripgrep)** [![GitHub stars](https://img.shields.io/github/stars/BurntSushi/ripgrep?style=social)](https://github.com/BurntSushi/ripgrep/stargazers)  
+- **[ripgrep](https://github.com/BurntSushi/ripgrep)** [![GitHub_Stars](https://img.shields.io/github/stars/BurntSushi/ripgrep?style=social)](https://github.com/BurntSushi/ripgrep/stargazers)  
   *Ultra-fast recursive search tool respecting `.gitignore` files by default (written in Rust).*  
-- **[bat](https://github.com/sharkdp/bat)** [![GitHub stars](https://img.shields.io/github/stars/sharkdp/bat?style=social)](https://github.com/sharkdp/bat/stargazers)  
+- **[bat](https://github.com/sharkdp/bat)** [![GitHub_Stars](https://img.shields.io/github/stars/sharkdp/bat?style=social)](https://github.com/sharkdp/bat/stargazers)  
   *A `cat` clone featuring automatic syntax highlighting, line numbers, and Git modifications display.*  
-- **[fd](https://github.com/sharkdp/fd)** [![GitHub stars](https://img.shields.io/github/stars/sharkdp/fd?style=social)](https://github.com/sharkdp/fd/stargazers)  
+- **[fd](https://github.com/sharkdp/fd)** [![GitHub_Stars](https://img.shields.io/github/stars/sharkdp/fd?style=social)](https://github.com/sharkdp/fd/stargazers)  
   *A fast, user-friendly alternative to `find` with colored output and parallel execution.*  
-- **[jq](https://github.com/jqlang/jq)** [![GitHub stars](https://img.shields.io/github/stars/jqlang/jq?style=social)](https://github.com/jqlang/jq/stargazers)  
+- **[jq](https://github.com/jqlang/jq)** [![GitHub_Stars](https://img.shields.io/github/stars/jqlang/jq?style=social)](https://github.com/jqlang/jq/stargazers)  
   *Flexible command-line JSON processor for querying, slicing, and transforming JSON payloads.*  
-- **[delta](https://github.com/dandavison/delta)** [![GitHub stars](https://img.shields.io/github/stars/dandavison/delta?style=social)](https://github.com/dandavison/delta/stargazers)  
+- **[delta](https://github.com/dandavison/delta)** [![GitHub_Stars](https://img.shields.io/github/stars/dandavison/delta?style=social)](https://github.com/dandavison/delta/stargazers)  
   *A syntax-highlighting viewer for Git, diff, and grep outputs with side-by-side display support.*  
-- **[eza](https://github.com/eza-community/eza)** [![GitHub stars](https://img.shields.io/github/stars/eza-community/eza?style=social)](https://github.com/eza-community/eza/stargazers)  
+- **[eza](https://github.com/eza-community/eza)** [![GitHub_Stars](https://img.shields.io/github/stars/eza-community/eza?style=social)](https://github.com/eza-community/eza/stargazers)  
   *Modern, maintained replacement for `ls` featuring file icons, Git status indicators, and tree views.*  
-- **[fx](https://github.com/antonmedv/fx)** [![GitHub stars](https://img.shields.io/github/stars/antonmedv/fx?style=social)](https://github.com/antonmedv/fx/stargazers)  
+- **[fx](https://github.com/antonmedv/fx)** [![GitHub_Stars](https://img.shields.io/github/stars/antonmedv/fx?style=social)](https://github.com/antonmedv/fx/stargazers)  
   *Interactive terminal JSON viewer and processing tool with expandable object nodes.*  
-- **[lsd](https://github.com/lsd-rs/lsd)** [![GitHub stars](https://img.shields.io/github/stars/lsd-rs/lsd?style=social)](https://github.com/lsd-rs/lsd/stargazers)  
+- **[lsd](https://github.com/lsd-rs/lsd)** [![GitHub_Stars](https://img.shields.io/github/stars/lsd-rs/lsd?style=social)](https://github.com/lsd-rs/lsd/stargazers)  
   *Next-generation `ls` command with colors, file type icons, and customizable formatting.*  
-- **[yq](https://github.com/mikefarah/yq)** [![GitHub stars](https://img.shields.io/github/stars/mikefarah/yq?style=social)](https://github.com/mikefarah/yq/stargazers)  
+- **[yq](https://github.com/mikefarah/yq)** [![GitHub_Stars](https://img.shields.io/github/stars/mikefarah/yq?style=social)](https://github.com/mikefarah/yq/stargazers)  
   *Portable YAML, JSON, XML, CSV, and TOML processor written in Go.*  
 
 ---
 
 ### 🪟 Terminal Multiplexers & Session Managers
 
-- **[tmux](https://github.com/tmux/tmux)** [![GitHub stars](https://img.shields.io/github/stars/tmux/tmux?style=social)](https://github.com/tmux/tmux/stargazers)  
+- **[tmux](https://github.com/tmux/tmux)** [![GitHub_Stars](https://img.shields.io/github/stars/tmux/tmux?style=social)](https://github.com/tmux/tmux/stargazers)  
   *The industry-standard terminal multiplexer allowing persistent sessions, multiple windows, and split panes.*  
-- **[Zellij](https://github.com/zellij-org/zellij)** [![GitHub stars](https://img.shields.io/github/stars/zellij-org/zellij?style=social)](https://github.com/zellij-org/zellij/stargazers)  
+- **[Zellij](https://github.com/zellij-org/zellij)** [![GitHub_Stars](https://img.shields.io/github/stars/zellij-org/zellij?style=social)](https://github.com/zellij-org/zellij/stargazers)  
   *A workspace & multiplexer written in Rust with accessible keybindings, layout templates, and WASM plugins.*  
-- **[abduco](https://github.com/martanne/abduco)** [![GitHub stars](https://img.shields.io/github/stars/martanne/abduco?style=social)](https://github.com/martanne/abduco/stargazers)  
+- **[abduco](https://github.com/martanne/abduco)** [![GitHub_Stars](https://img.shields.io/github/stars/martanne/abduco?style=social)](https://github.com/martanne/abduco/stargazers)  
   *Lightweight terminal session detach and reattach utility.*  
 
 ---
 
 ### 📊 Process Monitors, TUIs & DevOps Workflows
 
-- **[lazygit](https://github.com/jesseduffield/lazygit)** [![GitHub stars](https://img.shields.io/github/stars/jesseduffield/lazygit?style=social)](https://github.com/jesseduffield/lazygit/stargazers)  
+- **[lazygit](https://github.com/jesseduffield/lazygit)** [![GitHub_Stars](https://img.shields.io/github/stars/jesseduffield/lazygit?style=social)](https://github.com/jesseduffield/lazygit/stargazers)  
   *Simple, intuitive terminal UI for Git commands to stage, commit, branch, and resolve rebase conflicts.*  
-- **[lazydocker](https://github.com/jesseduffield/lazydocker)** [![GitHub stars](https://img.shields.io/github/stars/jesseduffield/lazydocker?style=social)](https://github.com/jesseduffield/lazydocker/stargazers)  
+- **[lazydocker](https://github.com/jesseduffield/lazydocker)** [![GitHub_Stars](https://img.shields.io/github/stars/jesseduffield/lazydocker?style=social)](https://github.com/jesseduffield/lazydocker/stargazers)  
   *Terminal UI for managing Docker containers, images, volumes, and service logs.*  
-- **[btop](https://github.com/aristocratos/btop)** [![GitHub stars](https://img.shields.io/github/stars/aristocratos/btop?style=social)](https://github.com/aristocratos/btop/stargazers)  
+- **[btop](https://github.com/aristocratos/btop)** [![GitHub_Stars](https://img.shields.io/github/stars/aristocratos/btop?style=social)](https://github.com/aristocratos/btop/stargazers)  
   *Resource monitor that shows usage and stats for processor, memory, disks, network, and processes.*  
-- **[k9s](https://github.com/derailed/k9s)** [![GitHub stars](https://img.shields.io/github/stars/derailed/k9s?style=social)](https://github.com/derailed/k9s/stargazers)  
+- **[k9s](https://github.com/derailed/k9s)** [![GitHub_Stars](https://img.shields.io/github/stars/derailed/k9s?style=social)](https://github.com/derailed/k9s/stargazers)  
   *Kubernetes CLI terminal interface to monitor, inspect, and manage pods and clusters in real time.*  
-- **[glances](https://github.com/nicolargo/glances)** [![GitHub stars](https://img.shields.io/github/stars/nicolargo/glances?style=social)](https://github.com/nicolargo/glances/stargazers)  
+- **[glances](https://github.com/nicolargo/glances)** [![GitHub_Stars](https://img.shields.io/github/stars/nicolargo/glances?style=social)](https://github.com/nicolargo/glances/stargazers)  
   *Cross-platform system monitoring tool powered by Python with Web and API exporters.*  
-- **[bottom](https://github.com/ClementTsang/bottom)** [![GitHub stars](https://img.shields.io/github/stars/ClementTsang/bottom?style=social)](https://github.com/ClementTsang/bottom/stargazers)  
+- **[bottom](https://github.com/ClementTsang/bottom)** [![GitHub_Stars](https://img.shields.io/github/stars/ClementTsang/bottom?style=social)](https://github.com/ClementTsang/bottom/stargazers)  
   *Customizable graphical process and system monitor for terminal fans.*  
-- **[termshark](https://github.com/gcla/termshark)** [![GitHub stars](https://img.shields.io/github/stars/gcla/termshark?style=social)](https://github.com/gcla/termshark/stargazers)  
+- **[termshark](https://github.com/gcla/termshark)** [![GitHub_Stars](https://img.shields.io/github/stars/gcla/termshark?style=social)](https://github.com/gcla/termshark/stargazers)  
   *Terminal UI for `tshark` inspired by Wireshark for deep packet analysis.*  
-- **[htop](https://github.com/htop-dev/htop)** [![GitHub stars](https://img.shields.io/github/stars/htop-dev/htop?style=social)](https://github.com/htop-dev/htop/stargazers)  
+- **[htop](https://github.com/htop-dev/htop)** [![GitHub_Stars](https://img.shields.io/github/stars/htop-dev/htop?style=social)](https://github.com/htop-dev/htop/stargazers)  
   *Interactive process viewer for Unix systems with vertical and horizontal scrolling.*  
-- **[ncdu](https://github.com/rofl0r/ncdu)** [![GitHub stars](https://img.shields.io/github/stars/rofl0r/ncdu?style=social)](https://github.com/rofl0r/ncdu/stargazers)  
+- **[ncdu](https://github.com/rofl0r/ncdu)** [![GitHub_Stars](https://img.shields.io/github/stars/rofl0r/ncdu?style=social)](https://github.com/rofl0r/ncdu/stargazers)  
   *NCurses disk usage analyzer for quickly identifying large files and directories.*  
 
 ---
@@ -186,7 +186,7 @@ Contributions are warmly welcomed! Please follow these simple guidelines:
 
 1. Fork this repository.
 2. Add your entry to the appropriate section or table in `README.md`.
-3. Ensure description remains factual, objective, and includes GitHub social star badges.
+3. Ensure description remains factual, objective, and includes GitHub social Stars_Badges.
 4. Submit a Pull Request detailing the value of the added tool.
 
 Also, check out the parent index at **[Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)** for more curated developer ecosystems!
@@ -224,3 +224,12 @@ If you would like to support ongoing curation and software engineering open-sour
 <p align="center">
   <b>Made with ❤️ for Developers, System Administrators &amp; CLI Enthusiasts Worldwide.</b>
 </p>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Terminal-Emulator-Utility&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Terminal-Emulator-Utility_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Terminal-Emulator-Utility_growth.svg">
+  </picture>
+</a>
